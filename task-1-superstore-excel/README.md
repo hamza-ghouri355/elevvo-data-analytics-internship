@@ -1,0 +1,1 @@
+In this task I build a sales performance dashboard in Excel from the Superstore Sales dataset. I'll clean the data, then use pivot tables for total revenue, units sold and monthly trends, and add clear charts. If I have time I'll add slicers and a month-over-month change. Status: not started yet, planned for the week of 2 November.
