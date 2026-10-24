@@ -1,0 +1,1 @@
+In this task I explore the Titanic dataset with Python and pandas. I'll clean the missing values, fix the data types, and look at things like survival by gender and passenger class, with charts to show the patterns. As a bonus I'll try survival-rate bar plots and a heatmap. Status: not started yet, planned for the week of 9 November.
