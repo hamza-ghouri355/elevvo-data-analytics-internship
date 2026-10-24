@@ -1,0 +1,1 @@
+In this task I clean the Kaggle Data Science Survey (2017 to 2021), which has missing values, duplicates and messy formatting. After cleaning, I'll map the categorical answers to cleaner values and look for insights about how the respondents work and what they prefer. As a bonus I'll make a chart of the top 5 insights. Status: not started yet, planned for the week of 9 November.
