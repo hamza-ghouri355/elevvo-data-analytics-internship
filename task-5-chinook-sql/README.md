@@ -1,0 +1,1 @@
+In this task I use SQL on the Chinook database to answer business questions about product sales. I want to find the top-selling products, the revenue per region and how sales change month by month, using JOINs to combine the tables. As a bonus I'll try a window function like ROW_NUMBER or RANK. Status: not started yet, planned for the week of 26 October.
